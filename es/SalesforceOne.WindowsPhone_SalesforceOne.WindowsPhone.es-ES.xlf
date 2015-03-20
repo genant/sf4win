@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-ES" original="SalesforceOne.WindowsPhone_Multilingual.prilog.xml" tool-id="MultilingualAppToolkit" product-name="SalesforceOne.WindowsPhone" product-version="1.0.0.0" build-num="0">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="3.1.1250.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="Resources">
+        <trans-unit id="Resources\CloseDateText\Text" translate="yes" xml:space="preserve">
+          <source>(close date)</source>
+          <target state="new">(close date)</target>
+        </trans-unit>
+        <trans-unit id="Resources\WhoName" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="Resources\AssignedTo" translate="yes" xml:space="preserve">
+          <source>Assigned To</source>
+          <target state="new">Assigned To</target>
+        </trans-unit>
+        <trans-unit id="Resources\DueDate" translate="yes" xml:space="preserve">
+          <source>Due date</source>
+          <target state="new">Due date</target>
+        </trans-unit>
+        <trans-unit id="Resources\End" translate="yes" xml:space="preserve">
+          <source>End</source>
+          <target state="new">End</target>
+        </trans-unit>
+        <trans-unit id="Resources\RelatedTo" translate="yes" xml:space="preserve">
+          <source>Related To</source>
+          <target state="new">Related To</target>
+        </trans-unit>
+        <trans-unit id="Resources\EventButton\Label" translate="yes" xml:space="preserve">
+          <source>events</source>
+          <target state="new">events</target>
+        </trans-unit>
+        <trans-unit id="Resources\Start" translate="yes" xml:space="preserve">
+          <source>Start</source>
+          <target state="new">Start</target>
+        </trans-unit>
+        <trans-unit id="Resources\RecordDetails\Header" translate="yes" xml:space="preserve">
+          <source>DETAILS</source>
+          <target state="new">DETAILS</target>
+        </trans-unit>
+        <trans-unit id="Resources\Today" translate="yes" xml:space="preserve">
+          <source>Today</source>
+          <target state="translated" state-qualifier="tm-suggestion">Hoy</target>
+        </trans-unit>
+        <trans-unit id="Resources\StringRecordDetails\Header" translate="yes" xml:space="preserve">
+          <source>DETAILS</source>
+          <target state="new">DETAILS</target>
+        </trans-unit>
+        <trans-unit id="Resources\Solutions\Header" translate="yes" xml:space="preserve">
+          <source>SOLUTIONS</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">SOLUCIONES</target>
+        </trans-unit>
+        <trans-unit id="Resources\SearchTxt\Text" translate="yes" xml:space="preserve">
+          <source>SEARCH</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">BÚSQUEDA</target>
+        </trans-unit>
+        <trans-unit id="Resources\SearchResultCount" translate="yes" xml:space="preserve">
+          <source>{0} records found</source>
+          <target state="new">{0} records found</target>
+        </trans-unit>
+        <trans-unit id="Resources\SearchResult" translate="yes" xml:space="preserve">
+          <source>Search results for "{0}":"</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Resultados de búsqueda para "{0}": "</target>
+        </trans-unit>
+        <trans-unit id="Resources\SearchProgress\ProgressText" translate="yes" xml:space="preserve">
+          <source>Searching...</source>
+          <target state="translated" state-qualifier="tm-suggestion">Buscando...</target>
+        </trans-unit>
+        <trans-unit id="Resources\SearchHintText" translate="yes" xml:space="preserve">
+          <source>Please enter a text to search.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Por favor, inserte un texto de búsqueda.</target>
+        </trans-unit>
+        <trans-unit id="Resources\Saving\ProgressText" translate="yes" xml:space="preserve">
+          <source>Save in progress...</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Guardar en curso...</target>
+        </trans-unit>
+        <trans-unit id="Resources\RecentViewed" translate="yes" xml:space="preserve">
+          <source>Recent viewed:</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Ven recientes:</target>
+        </trans-unit>
+        <trans-unit id="Resources\Recents\Header" translate="yes" xml:space="preserve">
+          <source>RECENT ITEMS</source>
+          <target state="new">RECENT ITEMS</target>
+        </trans-unit>
+        <trans-unit id="Resources\Quering" translate="yes" xml:space="preserve">
+          <source>Quering...</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Al consultar los...</target>
+        </trans-unit>
+        <trans-unit id="Resources\PostAttachmentText" translate="yes" xml:space="preserve">
+          <source>Upload from mobile of {0} at {1:g}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Cargar desde móviles de {0} a {1:g}</target>
+        </trans-unit>
+        <trans-unit id="Resources\Opportunities\Header" translate="yes" xml:space="preserve">
+          <source>OPPORTUNITIES</source>
+          <target state="new">OPPORTUNITIES</target>
+        </trans-unit>
+        <trans-unit id="Resources\PickupOptions\Content" translate="yes" xml:space="preserve">
+          <source>options</source>
+          <target state="new">options</target>
+        </trans-unit>
+        <trans-unit id="Resources\NoScheduledEvent\Text" translate="yes" xml:space="preserve">
+          <source>You have no scheduled events.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">No tener ningún evento programado.</target>
+        </trans-unit>
+        <trans-unit id="Resources\NextResults\Content" translate="yes" xml:space="preserve">
+          <source>next results...</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">resultados siguientes.</target>
+        </trans-unit>
+        <trans-unit id="Resources\MyTasks" translate="yes" xml:space="preserve">
+          <source>My Tasks</source>
+          <target state="translated" state-qualifier="tm-suggestion">Mis tareas</target>
+        </trans-unit>
+        <trans-unit id="Resources\LoadingRelated\ProgressText" translate="yes" xml:space="preserve">
+          <source>Loading related items...</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Artículos relacionados con la carga...</target>
+        </trans-unit>
+        <trans-unit id="Resources\Loading\ProgressText" translate="yes" xml:space="preserve">
+          <source>Loading...</source>
+          <target state="translated" state-qualifier="tm-suggestion">Cargando...</target>
+        </trans-unit>
+        <trans-unit id="Resources\LikeNum" translate="yes" xml:space="preserve">
+          <source>{0} likes</source>
+          <target state="translated" state-qualifier="tm-suggestion">Les gusta a {0} personas</target>
+        </trans-unit>
+        <trans-unit id="Resources\Like" translate="yes" xml:space="preserve">
+          <source>Like</source>
+          <target state="translated" state-qualifier="tm-suggestion">Como</target>
+        </trans-unit>
+        <trans-unit id="Resources\I_like" translate="yes" xml:space="preserve">
+          <source>I like</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Me gusta</target>
+        </trans-unit>
+        <trans-unit id="Resources\HubSectionTask\Header" translate="yes" xml:space="preserve">
+          <source>TASKS</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">TAREAS</target>
+        </trans-unit>
+        <trans-unit id="Resources\GoToTodayButton\Label" translate="yes" xml:space="preserve">
+          <source>today</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">hoy en día</target>
+        </trans-unit>
+        <trans-unit id="Resources\GoToButton\Label" translate="yes" xml:space="preserve">
+          <source>go to</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Ir a</target>
+        </trans-unit>
+        <trans-unit id="Resources\FailedToLaunchMaps" translate="yes" xml:space="preserve">
+          <source>Failed to launch web browser app.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Error al iniciar la aplicación de explorador web.</target>
+        </trans-unit>
+        <trans-unit id="Resources\EventStart\Text" translate="yes" xml:space="preserve">
+          <source>Start:</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Inicio:</target>
+        </trans-unit>
+        <trans-unit id="Resources\Events\Header" translate="yes" xml:space="preserve">
+          <source>EVENTS</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">EVENTOS</target>
+        </trans-unit>
+        <trans-unit id="Resources\EventHeader\Text" translate="yes" xml:space="preserve">
+          <source>EVENT</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">EVENTO</target>
+        </trans-unit>
+        <trans-unit id="Resources\EventEnd\Text" translate="yes" xml:space="preserve">
+          <source>End:</source>
+          <target state="translated" state-qualifier="tm-suggestion">Finalización:</target>
+        </trans-unit>
+        <trans-unit id="Resources\EmptyList\Text" translate="yes" xml:space="preserve">
+          <source>There are no records in this list.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">No existen registros de esta lista.</target>
+        </trans-unit>
+        <trans-unit id="Resources\Dislike" translate="yes" xml:space="preserve">
+          <source>Dislike</source>
+          <target state="translated" state-qualifier="tm-suggestion">Malo</target>
+        </trans-unit>
+        <trans-unit id="Resources\DialogConfirmCredentialMessage\Text" translate="yes" xml:space="preserve">
+          <source>I'm unable to authenticate, maybe someting goes wrong during last session or your password was changed. Tap on proceed button to confirm your Salesforce credential.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">No he podido autenticar, quizás algo va mal durante la última sesión o se ha cambiado la contraseña. Grifo en continuar el botón para confirmar su credencial de Salesforce.</target>
+        </trans-unit>
+        <trans-unit id="Resources\DialogConfirmCredential\Title" translate="yes" xml:space="preserve">
+          <source>CONFIRM CREDENTIAL</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">CONFIRMAR LA CREDENCIAL</target>
+        </trans-unit>
+        <trans-unit id="Resources\DialogConfirmCredential\SecondaryButtonText" translate="yes" xml:space="preserve">
+          <source>cancel</source>
+          <target state="translated" state-qualifier="tm-suggestion">cancelar</target>
+        </trans-unit>
+        <trans-unit id="Resources\DialogConfirmCredential\PrimaryButtonText" translate="yes" xml:space="preserve">
+          <source>proceed</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">continuar</target>
+        </trans-unit>
+        <trans-unit id="Resources\Contacts\Header" translate="yes" xml:space="preserve">
+          <source>CONTACTS</source>
+          <target state="new">CONTACTS</target>
+        </trans-unit>
+        <trans-unit id="Resources\Completed" translate="yes" xml:space="preserve">
+          <source>Completed</source>
+          <target state="translated" state-qualifier="tm-suggestion">Completada</target>
+        </trans-unit>
+        <trans-unit id="Resources\Cases\Header" translate="yes" xml:space="preserve">
+          <source>CASES</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">CASOS</target>
+        </trans-unit>
+        <trans-unit id="Resources\AllRecords" translate="yes" xml:space="preserve">
+          <source>all records</source>
+          <target state="new">all records</target>
+        </trans-unit>
+        <trans-unit id="Resources\AllDayEvent" translate="yes" xml:space="preserve">
+          <source>All day</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Todo el día</target>
+        </trans-unit>
+        <trans-unit id="Resources\AddButton\Label" translate="yes" xml:space="preserve">
+          <source>add</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Agregar</target>
+        </trans-unit>
+        <trans-unit id="Resources\Accounts\Header" translate="yes" xml:space="preserve">
+          <source>ACCOUNTS</source>
+          <target state="new">ACCOUNTS</target>
+        </trans-unit>
+        <trans-unit id="Resources\Owner" translate="yes" xml:space="preserve">
+          <source>Owner</source>
+          <target state="translated" state-qualifier="tm-suggestion">Owner</target>
+        </trans-unit>
+        <trans-unit id="Resources\No" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="translated" state-qualifier="tm-suggestion">No</target>
+        </trans-unit>
+        <trans-unit id="Resources\LastModifiedBy" translate="yes" xml:space="preserve">
+          <source>Last Modified By</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Última modificada realizada por</target>
+        </trans-unit>
+        <trans-unit id="Resources\CreatedBy" translate="yes" xml:space="preserve">
+          <source>Created By</source>
+          <target state="translated" state-qualifier="tm-suggestion">Creada por</target>
+        </trans-unit>
+        <trans-unit id="Resources\CancelButton\Content" translate="yes" xml:space="preserve">
+          <source>cancel</source>
+          <target state="translated" state-qualifier="tm-suggestion">cancelar</target>
+        </trans-unit>
+        <trans-unit id="Resources\AcceptButton\Content" translate="yes" xml:space="preserve">
+          <source>i agree</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Acepto</target>
+        </trans-unit>
+        <trans-unit id="Resources\SaveButton\Label" translate="yes" xml:space="preserve">
+          <source>save</source>
+          <target state="translated" state-qualifier="tm-suggestion">guardar</target>
+        </trans-unit>
+        <trans-unit id="Resources\DeleteComment\Text" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="translated" state-qualifier="tm-suggestion">Delete</target>
+        </trans-unit>
+        <trans-unit id="Resources\CancelButton\Label" translate="yes" xml:space="preserve">
+          <source>cancel</source>
+          <target state="translated" state-qualifier="tm-suggestion">cancelar</target>
+        </trans-unit>
+        <trans-unit id="Resources\ShareButton\Content" translate="yes" xml:space="preserve">
+          <source>share</source>
+          <target state="translated" state-qualifier="tm-suggestion">compartir</target>
+        </trans-unit>
+        <trans-unit id="Resources\SendButton\Content" translate="yes" xml:space="preserve">
+          <source>send</source>
+          <target state="translated" state-qualifier="tm-suggestion">enviar</target>
+        </trans-unit>
+        <trans-unit id="Resources\SearchBoxPlaceholder\PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Begin search...</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Empieza la búsqueda...</target>
+        </trans-unit>
+        <trans-unit id="Resources\EditButton\Label" translate="yes" xml:space="preserve">
+          <source>edit</source>
+          <target state="translated" state-qualifier="tm-suggestion">editar</target>
+        </trans-unit>
+        <trans-unit id="Resources\AttachButton\Content" translate="yes" xml:space="preserve">
+          <source>attach</source>
+          <target state="translated" state-qualifier="tm-suggestion">adjuntar</target>
+        </trans-unit>
+        <trans-unit id="Resources\AddLabel\Label" translate="yes" xml:space="preserve">
+          <source>add</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Agregar</target>
+        </trans-unit>
+        <trans-unit id="Resources\SearchLabel" translate="yes" xml:space="preserve">
+          <source>SEARCH {0}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">BUSCAR EN {0}</target>
+        </trans-unit>
+        <trans-unit id="Resources\SaveProgress" translate="yes" xml:space="preserve">
+          <source>Saving...</source>
+          <target state="translated" state-qualifier="tm-suggestion">Guardar en curso...</target>
+        </trans-unit>
+        <trans-unit id="Resources\SaveButton\Content" translate="yes" xml:space="preserve">
+          <source>save</source>
+          <target state="translated" state-qualifier="tm-suggestion">guardar</target>
+        </trans-unit>
+        <trans-unit id="Resources\ErrorPanelText\Text" translate="yes" xml:space="preserve">
+          <source>Looks like there's a problem</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Parece que hay un problema</target>
+        </trans-unit>
+        <trans-unit id="Resources\EditPageHeader" translate="yes" xml:space="preserve">
+          <source>EDIT {0} DETAILS</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">EDITAR DETALLES DE {0}</target>
+        </trans-unit>
+        <trans-unit id="Resources\CreateNewHeader" translate="yes" xml:space="preserve">
+          <source>CREATE NEW {0}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">CREAR NUEVO {0}</target>
+        </trans-unit>
+        <trans-unit id="Resources\NullDatePlaceholderText" translate="yes" xml:space="preserve">
+          <source>select a date</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Seleccione una fecha</target>
+        </trans-unit>
+        <trans-unit id="Resources\LookupPlaceholderText" translate="yes" xml:space="preserve">
+          <source>search an item</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">buscar un elemento</target>
+        </trans-unit>
+        <trans-unit id="Resources\VoteCommandText" translate="yes" xml:space="preserve">
+          <source>vote</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">voto</target>
+        </trans-unit>
+        <trans-unit id="Resources\PollResultsCommandText" translate="yes" xml:space="preserve">
+          <source>back to poll results</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">volver a resultados de encuesta</target>
+        </trans-unit>
+        <trans-unit id="Resources\PollCommandText" translate="yes" xml:space="preserve">
+          <source>change your vote</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">cambiar tu voto</target>
+        </trans-unit>
+        <trans-unit id="Resources\ToastNoConnText" translate="yes" xml:space="preserve">
+          <source>Check the Wi-Fi or your mobile network</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Compruebe la Wi-Fi o la red móvil</target>
+        </trans-unit>
+        <trans-unit id="Resources\ToastNoConnHeader" translate="yes" xml:space="preserve">
+          <source>No active data connection</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Ninguna conexión de datos activa</target>
+        </trans-unit>
+        <trans-unit id="Resources\FindLabel\Label" translate="yes" xml:space="preserve">
+          <source>find</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Buscar</target>
+        </trans-unit>
+        <trans-unit id="Resources\HubSectionFeeds\Header" translate="yes" xml:space="preserve">
+          <source>MY FEEDS</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">MIS FUENTES</target>
+        </trans-unit>
+        <trans-unit id="Resources\HubSectionApp\Header" translate="yes" xml:space="preserve">
+          <source>APPLICATIONS</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">APLICACIONES</target>
+        </trans-unit>
+        <trans-unit id="Resources\Hub\Header" translate="yes" xml:space="preserve">
+          <source>salesforce One</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Una fuerza de ventas</target>
+        </trans-unit>
+        <trans-unit id="Resources\Header\Text" translate="yes" xml:space="preserve">
+          <source>salesforce One</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Una fuerza de ventas</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
